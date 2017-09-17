@@ -7,7 +7,7 @@ pragma solidity ^0.4.1;
 import "./StandardToken.sol";
 
 /**
- * Blockchain Capital Token Smart Contract.
+ * AssetxCoin Token Smart Contract.
  */
 contract ASXCToken is StandardToken {
   /**
