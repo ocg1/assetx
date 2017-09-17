@@ -11,7 +11,7 @@ import "./StandardToken.sol";
  */
 contract ASXCToken is StandardToken {
   /**
-   * Create new Blockchain Capital Token contract with given central bank
+   * Create new AssetxCoin Token contract with given central bank
    * address.
    *
    * @param _centralBank address of central bank
