@@ -1,0 +1,35 @@
+Token name: Dollar Coin
+
+Token ticker: USD
+
+Token decimals: 18
+
+Multisig wallet address: 0xf3eDac9BFA6eCD55363F50fC5aE7bFCc19E85A79
+
+*****************************
+
+Crowdsale rate: 100
+
+Crowdsale start time: 2017-11-10T03:38 (GMT - 5)
+
+Crowdsale end time: 2018-01-14T00:38:00 (GMT - 5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Finalize agent contract name: ReservedTokensFinalizeAgent
+
+Finalize agent contract address for Tier 1: 0xE991D2eA8560899001F5A9eeF2278852d54C7fAC
+
+*****************************
+
+****Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function","signature":"0x0bf318a3"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function","signature":"0x614cb904"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function","signature":"0x82771c8e"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function","signature":"0x9c1e03a0"},{"constant":true,"inputs":[],"name":"token","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function","signature":"0xfc0c546a"},{"inputs":[{"name":"_token","type":"address"},{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor","signature":"constructor"}]
+
+****Finalize agent contract ABI encoded constructor arguments for Tier 1:**** 
+
+0000000000000000000000004066176f7c54614293a1937341c861cf0cc8e778000000000000000000000000866f13290bf71594fe483c23199cbd6974eda218

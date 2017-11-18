@@ -1,0 +1,31 @@
+Token name: Dollar Coin
+
+Token ticker: USD
+
+Token decimals: 18
+
+Multisig wallet address: 0xf3eDac9BFA6eCD55363F50fC5aE7bFCc19E85A79
+
+*****************************
+
+Crowdsale rate: 100
+
+Crowdsale start time: 2017-11-10T03:38 (GMT - 5)
+
+Crowdsale end time: 2018-01-14T00:38:00 (GMT - 5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0x575c5C895bbd689139fb8C0b947b230c43Cb2BdE
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function","signature":"0x1d3b9edf"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function","signature":"0x66098d4f"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function","signature":"0xa12f69e0"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function","signature":"0xf4f3bdc1"}]
